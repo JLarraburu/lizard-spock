@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roshambo</string>
+    <string name="response_text">Play</string>
+    <string name="paper_string">Paper</string>
+    <string name="rock_string">Rock</string>
+    <string name="lizard_string">Lizard</string>
+    <string name="spock_string">Spock</string>
+    <string name="scissors_string">Scissors</string>
+    <string name="rps_image_content_description">Rock Paper Scissors Image</string>
+    
+    <string name="menu_traditional">Traditional</string>
+    <string name="menu_lizard_spock">Lizard Spock</string>
+</resources>
